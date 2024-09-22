@@ -26,6 +26,7 @@ Frontend News 365 is a comprehensive news platform dedicated to frontend develop
 ## Installation
 
 To access Frontend News 365, simply visit our website at [www.news365.bdtask-demo.com](https://news365.bdtask-demo.com).
+To access Frontend News 365, simply visit our website at [www.news365-next-js-frontend.vercel.app](https://news365-next-js-frontend.vercel.app).
 
 ## Usage
 
